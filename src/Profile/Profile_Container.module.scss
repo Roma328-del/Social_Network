@@ -1,0 +1,71 @@
+.status_label {
+    position: absolute;
+    text-align: center;
+    left: 60%;
+    top: 15%;
+    width: 20%;
+    // background: black;
+    // color: red;
+}
+
+.status_label_me {
+    position: absolute;
+    text-align: center;
+    left: 60%;
+    top: 15%;
+    width: 20%;
+}
+
+.status_label_me:hover {
+    color: aqua;
+}
+
+.input_status {
+    position: absolute;
+    top: 15%;
+    left: 60%;
+    width: 20%;
+    text-align: center;
+    background-color: yellow;
+}
+
+.div_name {
+    position: absolute;
+    top: 10%;
+    left: 60%;
+    width: 20%;
+    text-align: center;
+    // background-color: green;
+}
+
+.img0 {
+    position: absolute;
+    top: 6%;
+    left: 80%;
+    height: 40%;
+    width: 20%;
+    object-fit: contain;
+    // background-color: aqua;
+}
+
+.InputPutPhoto {
+    position: absolute;
+    top: 20%;
+    left: 60%;
+    width: 20%;
+    text-align: center;
+}
+
+.ButtonSendPhoto {
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    width: 20%;
+    text-align: center;
+}
+
+.er {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}

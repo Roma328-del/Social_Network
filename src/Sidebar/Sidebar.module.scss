@@ -1,0 +1,28 @@
+.todo_div {
+    position: absolute;
+    left: 0%;
+    top: 20%;
+    width: 10%;
+    height: 80%;
+}
+
+.cada_div {
+    text-align: center;
+    height: 15%;
+    width: 100%;
+    border-top: 1%;
+    border-top-color: black;
+    border-top-style: solid;
+}
+
+.navlink {
+    position: relative;
+    top: 30%;
+    height: 10%;
+    text-decoration: none;
+    color: black;
+}
+
+.navlink:hover {
+    color: aqua
+}
